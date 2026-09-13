@@ -1,0 +1,6 @@
+{
+  "name": "Doctrinal Visual Replacements: A 7-Panel Sequence",
+  "description": "An interactive 7-panel visual sequence exploring the doctrinal replacements of Jesus, juxtaposing worldly architectural, symbolic, and ideological power with divine grace, humility, and sacrificial love.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
